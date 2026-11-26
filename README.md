@@ -4,7 +4,7 @@
 
 ```csharp
 
-@nruv
+ →  ~ @nruv █
 ----------------
        DC  :  141234854837616641
        OS  :  Gentoo Linux (OpenRC)
